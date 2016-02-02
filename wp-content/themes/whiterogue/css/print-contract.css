@@ -1,0 +1,24 @@
+body {
+    color:black;
+}
+
+input[type="text"] {
+    border:none;
+    width: 100%;
+    font-size: 15px;
+}
+
+#assistido_nome_text,
+#assistido_rg_text {
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}
+
+#whiterogue-overflow-div table {
+    width: 80%;
+}
+
+#tg {
+    width:98% !important;
+}
